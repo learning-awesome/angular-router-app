@@ -1,2 +1,3 @@
-# angulr_admin
-angularjs+bootstrap
+#angular + bootstrap
+
+angular + bootstrap + angular router

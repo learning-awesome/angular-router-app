@@ -12,7 +12,7 @@ angular.module('app')
 
       // config
       $scope.app = {
-        name: 'XX运营平台',
+        name: 'angular+bootstrap',
         version: '1.3.3',
         // for chart colors
         color: {
